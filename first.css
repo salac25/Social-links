@@ -23,11 +23,11 @@ ul{list-style-type: none;}
      
 ul li a{ color: white; list-style: none; text-decoration: none;}
 
-.section1:hover{background-color: hsl(0, 0%, 8%); color:gray;}
-.section2:hover{background-color: hsl(0, 0%, 8%); color:gray;}
-.section3:hover{background-color: hsl(0, 0%, 8%); color:gray;}
-.section4:hover{background-color: hsl(0, 0%, 8%); color:gray;}
-.section5:hover{background-color: hsl(0, 0%, 8%); color:gray;}
+.section1:hover{background-color: hsl(0, 0%, 12%); color:gray;}
+.section2:hover{background-color: hsl(0, 0%, 12%); color:gray;}
+.section3:hover{background-color: hsl(0, 0%, 12%); color:gray;}
+.section4:hover{background-color: hsl(0, 0%, 12%); color:gray;}
+.section5:hover{background-color: hsl(0, 0%, 12%); color:gray;}
 
 
 
