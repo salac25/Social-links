@@ -10,4 +10,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor].ht
 
 
 Solution URL:https://github.com/salac25/Social-links.git
-Live Site URL:
+Live Site URL:https://social-links-steel.vercel.app
