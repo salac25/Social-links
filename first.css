@@ -33,7 +33,7 @@ ul li a{ color: white; list-style: none; text-decoration: none;}
 
 
  .section1{
-   background-color: gray;
+   background-color:hsl(0, 0%, 12%);
    color:white;
    font-size: 14px ;
    text-align: center;
@@ -46,7 +46,7 @@ ul li a{ color: white; list-style: none; text-decoration: none;}
 }
 
 .section2{
-   background-color: gray;
+   background-color: hsl(0, 0%, 12%);
    color:white;
    text-align: center;
    font-size: 14px ;
@@ -58,7 +58,7 @@ ul li a{ color: white; list-style: none; text-decoration: none;}
 }
 
 .section3{
-   background-color: gray;
+   background-color:hsl(0, 0%, 12%);
    color:white;
    text-align: center;
    font-size: 14px ;
@@ -69,7 +69,7 @@ ul li a{ color: white; list-style: none; text-decoration: none;}
    margin-bottom: 10px;
 }
 .section4{
-   background-color: gray;
+   background-color:hsl(0, 0%, 12%);
    color:white;
    text-align: center;
    font-size: 14px ;
@@ -81,7 +81,7 @@ ul li a{ color: white; list-style: none; text-decoration: none;}
 }
 
 .section5{
-   background-color: gray;
+   background-color:hsl(0, 0%, 12%);
    color:white;
    text-align: center;
    font-size: 14px ;
